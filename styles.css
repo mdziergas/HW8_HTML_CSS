@@ -86,7 +86,7 @@ padding-right: 200px;
   }
   
   td, th {
-    border: 1px solid #dddddd;
+    border: 1px solid #a7a7a7;
     text-align: left;
     padding: 8px;
   }
@@ -105,4 +105,13 @@ padding-right: 200px;
   th{
       background-color: #666666;
       color: white;
+  }
+  main{
+      margin-bottom: 50px;
+  }
+  article{
+      margin-top: 40px;
+  }
+  .subheading{
+      margin-bottom: 5px;
   }
