@@ -71,6 +71,38 @@ footer{
  header p{
      margin-bottom: 20px;
  }
- .sections article{
-     display: inline;
+ span.sections{
+display: inline-block;
+padding-left: 200px;
+padding-right: 200px;
+
  }
+ .about{
+     text-align: center;
+ }
+ table {
+    border-collapse: collapse;
+    width: 75%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  .table{
+      margin-top: 50px;
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      align-content: center;
+  }
+  th{
+      background-color: #666666;
+      color: white;
+  }
